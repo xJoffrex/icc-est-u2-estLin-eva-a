@@ -8,7 +8,7 @@ public class App {
         var estudiante = StudentValidator.validarDatos();
         System.out.println("👤 Estudiante: " + estudiante.nombre());
         System.out.println("✉️  Correo: " + estudiante.correo());
-        // NO MODIFICAR HASTA AQUÍ
+        // NO MODIFICAR HASTA AQUÍfdsafads
 
     }
 }
